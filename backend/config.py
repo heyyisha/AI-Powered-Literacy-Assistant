@@ -1,0 +1,5 @@
+MYSQL_HOST = "localhost"
+MYSQL_USER = "root"
+MYSQL_PASSWORD = "Root@12345"
+MYSQL_DATABASE = "literacy_assistant"
+JWT_SECRET_KEY = "your-super-secret-key"
